@@ -1,7 +1,9 @@
 # CSES-Solutions
 
 24 accepted solutions to the [CSES Problem Set](https://cses.fi/problemset/), written in C++ by OKba Hamdi [(Yagami_light)](https://cses.fi/user/111330).
+
 I am always trying to solve more ...
+
 to be continued ...
 
 | Problem Type          | Number Solved |
@@ -26,7 +28,7 @@ to be continued ...
 1. [Missing Number](/Introductory%20Problems/Missing%20Number.cpp)
 1. [Repetitions](/Introductory%20Problems/Repetitions.cpp)
 1. [Increasing Array](/Introductory%20Problems/Increasing%20Array.cpp)
-1. [Permutations](/Introductory%20Problems/Permutations%20I.cpp)
+1. [Permutations](/Introductory%20Problems/Permutations.cpp)
 
 ## Sorting and Searching
 1. [Distinct Numbers](/Sorting%20and%20Searching/Distinct%20Numbers.cpp)
