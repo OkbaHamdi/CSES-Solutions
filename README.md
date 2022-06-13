@@ -62,7 +62,7 @@ to be continued ...
 
 ## Mathematics
 
-1. [Exponentiation](/Mathematics/Exponentiation%20I.cpp)
+1. [Exponentiation](/Mathematics/Exponentiation.cpp)
 1. [Counting Divisors](/Mathematics/Counting%20Divisors.cpp)
 
 
