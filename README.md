@@ -37,7 +37,7 @@ to be continued ...
 1. [Concert Tickets](/Sorting%20and%20Searching/Concert%20Tickets.cpp)
 1. [Restaurant Customers](/Sorting%20and%20Searching/Restaurant%20Customers.cpp)
 1. [Sum of Two Values](/Sorting%20and%20Searching/Sum%20of%20Two%20Values.cpp)
-1. [Maximum Subarray Sum](/Sorting%20and%20Searching/Maximum%20Subarray%20Sum%20I.cpp)
+1. [Maximum Subarray Sum](/Sorting%20and%20Searching/Maximum%20Subarray%20Sum.cpp)
 1. [Stick Lengths](/Sorting%20and%20Searching/Stick%20Lengths.cpp)
 1. [Missing Coin Sum](/Sorting%20and%20Searching/Missing%20Coin%20Sum.cpp)
 
@@ -46,8 +46,8 @@ to be continued ...
 1. [Dice Combinations](/Dynamic%20Programming/Dice%20Combinations.cpp)
 1. [Minimizing Coins](/Dynamic%20Programming/Minimizing%20Coins.cpp)
 1. [Coin Combinations I](/Dynamic%20Programming/Coin%20Combinations%20I.cpp)
-1. [Removing Digits](/Dynamic%20Programming/Removing%20Digits%20I.cpp)
-1. [Grid Paths](/Dynamic%20Programming/Grid%20Paths%20II.cpp)
+1. [Removing Digits](/Dynamic%20Programming/Removing%20Digits.cpp)
+1. [Grid Paths](/Dynamic%20Programming/Grid%20Paths.cpp)
 
 ## Graph Algorithms
 
