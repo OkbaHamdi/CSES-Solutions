@@ -1,6 +1,6 @@
 # CSES-Solutions
 
-24 accepted solutions to the [CSES Problem Set](https://cses.fi/problemset/), written in C++ by Jonathan Uy [(nulltype)](https://cses.fi/user/22919).
+24 accepted solutions to the [CSES Problem Set](https://cses.fi/problemset/), written in C++ by OKba Hamdi [(Yagami_light)](https://cses.fi/user/111330).
 I am always trying to solve more ...
 to be continued ...
 
