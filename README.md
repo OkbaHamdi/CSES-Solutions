@@ -60,37 +60,9 @@ to be continued ...
 
 ## Mathematics
 
-1. [Josephus Queries](/Mathematics/Josephus%20Queries.cpp)
 1. [Exponentiation](/Mathematics/Exponentiation%20I.cpp)
-1. [Exponentiation II](/Mathematics/Exponentiation%20II.cpp)
 1. [Counting Divisors](/Mathematics/Counting%20Divisors.cpp)
-1. [Common Divisors](/Mathematics/Common%20Divisors.cpp)
-1. [Sum of Divisors](/Mathematics/Sum%20of%20Divisors.cpp)
-1. [Divisor Analysis](/Mathematics/Divisor%20Analysis.cpp)
-1. [Prime Multiples](/Mathematics/Prime%20Multiples.cpp)
-1. [Counting Coprime Pairs](/Mathematics/Counting%20Coprime%20Pairs.cpp)
-1. [Binomial Coefficients](/Mathematics/Binomial%20Coefficients.cpp)
-1. [Creating Strings II](/Mathematics/Creating%20Strings%20II.cpp)
-1. [Distributing Apples](/Mathematics/Distributing%20Apples.cpp)
-1. [Christmas Party](/Mathematics/Christmas%20Party.cpp)
-1. [Bracket Sequences I](/Mathematics/Bracket%20Sequences%20I.cpp)
-1. [Bracket Sequences II](/Mathematics/Bracket%20Sequences%20II.cpp)
-1. [Counting Necklaces](/Mathematics/Counting%20Necklaces.cpp)
-1. [Counting Grids](/Mathematics/Counting%20Grids.cpp)
-1. [Fibonacci Numbers](/Mathematics/Fibonacci%20Numbers.cpp)
-1. [Throwing Dice](/Mathematics/Throwing%20Dice.cpp)
-1. [Graph Paths I](/Mathematics/Graph%20Paths%20I.cpp)
-1. [Graph Paths II](/Mathematics/Graph%20Paths%20II.cpp)
-1. [Dice Probability](/Mathematics/Dice%20Probability.cpp)
-1. [Moving Robots](/Mathematics/Moving%20Robots.cpp)
-1. [Candy Lottery](/Mathematics/Candy%20Lottery.cpp)
-1. [Inversion Probability](/Mathematics/Inversion%20Probability.cpp)
-1. [Stick Game](/Mathematics/Stick%20Game.cpp)
-1. [Nim Game I](/Mathematics/Nim%20Game%20I.cpp)
-1. [Nim Game II](/Mathematics/Nim%20Game%20II.cpp)
-1. [Stair Game](/Mathematics/Stair%20Game.cpp)
-1. [Grundy's Game](/Mathematics/Grundy's%20Game.cpp)
-1. [Another Game](/Mathematics/Another%20Game.cpp)
+
 
 ## String Algorithms
 
