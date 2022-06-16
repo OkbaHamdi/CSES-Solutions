@@ -48,6 +48,7 @@ to be continued ...
 1. [Coin Combinations I](/Dynamic%20Programming/Coin%20Combinations%20I.cpp)
 1. [Removing Digits](/Dynamic%20Programming/Removing%20Digits.cpp)
 1. [Grid Paths](/Dynamic%20Programming/Grid%20Paths.cpp)
+1. [Book Shop](/Dynamic%20Programming/Book%20Shop.cpp)
 
 ## Graph Algorithms
 
