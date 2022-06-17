@@ -51,6 +51,7 @@ to be continued ...
 1. [Book Shop](/Dynamic%20Programming/Book%20Shop.cpp)
 1. [Counting Towers](/Dynamic%20Programming/Counting%20Towers.cpp)
 1. [Rectangle Cutting](/Dynamic%20Programming/Rectangle%20Cutting.cpp)
+1. [Moneys Sums](/Dynamic%20Programming/Moneys%20Sums.cpp)
 
 ## Graph Algorithms
 
