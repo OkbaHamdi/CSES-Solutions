@@ -19,7 +19,7 @@ to be continued ...
 | Geometry              |      0/7      |
 | Advanced Techniques   |     0/24     |
 | Additional Problems   |     0/77     |
-| **Total**             |  **25/300**  |
+| **Total**             |  **27/300**  |
 
 # Table of Contents
 
