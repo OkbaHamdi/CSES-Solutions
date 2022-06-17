@@ -1,6 +1,6 @@
 # CSES-Solutions
 
-28 accepted solutions to the [CSES Problem Set](https://cses.fi/problemset/), written in C++ by Okba Hamdi [(Yagami_light)](https://cses.fi/user/111330).
+29 accepted solutions to the [CSES Problem Set](https://cses.fi/problemset/), written in C++ by Okba Hamdi [(Yagami_light)](https://cses.fi/user/111330).
 
 I am always trying to solve more ...
 
@@ -8,7 +8,7 @@ to be continued ...
 
 | Problem Type          | Number Solved |
 |-----------------------|:-------------:|
-| Introductory Problems |     5/19     |
+| Introductory Problems |     6/19     |
 | Sorting and Searching |     9/35     |
 | Dynamic Programming   |     9/19     |
 | Graph Algorithms      |     1/36     |
@@ -19,7 +19,7 @@ to be continued ...
 | Geometry              |      0/7      |
 | Advanced Techniques   |     0/24     |
 | Additional Problems   |     0/77     |
-| **Total**             |  **28/300**  |
+| **Total**             |  **29/300**  |
 
 # Table of Contents
 
@@ -40,6 +40,7 @@ to be continued ...
 1. [Maximum Subarray Sum](/Sorting%20and%20Searching/Maximum%20Subarray%20Sum.cpp)
 1. [Stick Lengths](/Sorting%20and%20Searching/Stick%20Lengths.cpp)
 1. [Missing Coin Sum](/Sorting%20and%20Searching/Missing%20Coin%20Sum.cpp)
+1. [Two Sets](/Sorting%20and%20Searching/Two%20Sets.cpp)
 
 ## Dynamic Programming
 
