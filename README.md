@@ -1,6 +1,6 @@
 # CSES-Solutions
 
-27 accepted solutions to the [CSES Problem Set](https://cses.fi/problemset/), written in C++ by Okba Hamdi [(Yagami_light)](https://cses.fi/user/111330).
+28 accepted solutions to the [CSES Problem Set](https://cses.fi/problemset/), written in C++ by Okba Hamdi [(Yagami_light)](https://cses.fi/user/111330).
 
 I am always trying to solve more ...
 
@@ -10,7 +10,7 @@ to be continued ...
 |-----------------------|:-------------:|
 | Introductory Problems |     5/19     |
 | Sorting and Searching |     9/35     |
-| Dynamic Programming   |     8/19     |
+| Dynamic Programming   |     9/19     |
 | Graph Algorithms      |     1/36     |
 | Range Queries         |     2/19     |
 | Tree Algorithms       |     0/16     |
@@ -19,7 +19,7 @@ to be continued ...
 | Geometry              |      0/7      |
 | Advanced Techniques   |     0/24     |
 | Additional Problems   |     0/77     |
-| **Total**             |  **27/300**  |
+| **Total**             |  **28/300**  |
 
 # Table of Contents
 
@@ -51,7 +51,7 @@ to be continued ...
 1. [Book Shop](/Dynamic%20Programming/Book%20Shop.cpp)
 1. [Counting Towers](/Dynamic%20Programming/Counting%20Towers.cpp)
 1. [Rectangle Cutting](/Dynamic%20Programming/Rectangle%20Cutting.cpp)
-1. [Moneys Sums](/Dynamic%20Programming/Moneys%20Sums.cpp)
+1. [Money Sums](/Dynamic%20Programming/Money%20Sums.cpp)
 
 ## Graph Algorithms
 
