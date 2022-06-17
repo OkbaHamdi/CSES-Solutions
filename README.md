@@ -29,6 +29,7 @@ to be continued ...
 1. [Repetitions](/Introductory%20Problems/Repetitions.cpp)
 1. [Increasing Array](/Introductory%20Problems/Increasing%20Array.cpp)
 1. [Permutations](/Introductory%20Problems/Permutations.cpp)
+1. [Two Sets](/Introductory%20Problems/Two%20Sets.cpp)
 
 ## Sorting and Searching
 1. [Distinct Numbers](/Sorting%20and%20Searching/Distinct%20Numbers.cpp)
@@ -40,7 +41,6 @@ to be continued ...
 1. [Maximum Subarray Sum](/Sorting%20and%20Searching/Maximum%20Subarray%20Sum.cpp)
 1. [Stick Lengths](/Sorting%20and%20Searching/Stick%20Lengths.cpp)
 1. [Missing Coin Sum](/Sorting%20and%20Searching/Missing%20Coin%20Sum.cpp)
-1. [Two Sets](/Sorting%20and%20Searching/Two%20Sets.cpp)
 
 ## Dynamic Programming
 
