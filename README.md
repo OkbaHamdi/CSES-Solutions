@@ -1,6 +1,6 @@
 # CSES-Solutions
 
-27 accepted solutions to the [CSES Problem Set](https://cses.fi/problemset/), written in C++ by OKba Hamdi [(Yagami_light)](https://cses.fi/user/111330).
+27 accepted solutions to the [CSES Problem Set](https://cses.fi/problemset/), written in C++ by Okba Hamdi [(Yagami_light)](https://cses.fi/user/111330).
 
 I am always trying to solve more ...
 
