@@ -1,6 +1,6 @@
 # CSES-Solutions
 
-30 accepted solutions to the [CSES Problem Set](https://cses.fi/problemset/), written in C++ by Okba Hamdi [(Yagami_light)](https://cses.fi/user/111330).
+31 accepted solutions to the [CSES Problem Set](https://cses.fi/problemset/), written in C++ by Okba Hamdi [(Yagami_light)](https://cses.fi/user/111330).
 
 I am always trying to solve more ...
 
@@ -8,7 +8,7 @@ to be continued ...
 
 | Problem Type          | Number Solved |
 |-----------------------|:-------------:|
-| Introductory Problems |     7/19     |
+| Introductory Problems |     8/19     |
 | Sorting and Searching |     9/35     |
 | Dynamic Programming   |     9/19     |
 | Graph Algorithms      |     1/36     |
@@ -19,7 +19,7 @@ to be continued ...
 | Geometry              |      0/7      |
 | Advanced Techniques   |     0/24     |
 | Additional Problems   |     0/77     |
-| **Total**             |  **30/300**  |
+| **Total**             |  **31/300**  |
 
 # Table of Contents
 
@@ -31,6 +31,7 @@ to be continued ...
 1. [Permutations](/Introductory%20Problems/Permutations.cpp)
 1. [Two Sets](/Introductory%20Problems/Two%20Sets.cpp)
 1. [Bit Strings](/Introductory%20Problems/Bit%20Strings.cpp)
+1. [Trailing Zeros](/Introductory%20Problems/Trailing%20Zeros.cpp)
 
 
 ## Sorting and Searching
