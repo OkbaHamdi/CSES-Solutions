@@ -1,6 +1,6 @@
 # CSES-Solutions
 
-29 accepted solutions to the [CSES Problem Set](https://cses.fi/problemset/), written in C++ by Okba Hamdi [(Yagami_light)](https://cses.fi/user/111330).
+30 accepted solutions to the [CSES Problem Set](https://cses.fi/problemset/), written in C++ by Okba Hamdi [(Yagami_light)](https://cses.fi/user/111330).
 
 I am always trying to solve more ...
 
@@ -8,7 +8,7 @@ to be continued ...
 
 | Problem Type          | Number Solved |
 |-----------------------|:-------------:|
-| Introductory Problems |     6/19     |
+| Introductory Problems |     7/19     |
 | Sorting and Searching |     9/35     |
 | Dynamic Programming   |     9/19     |
 | Graph Algorithms      |     1/36     |
@@ -30,6 +30,8 @@ to be continued ...
 1. [Increasing Array](/Introductory%20Problems/Increasing%20Array.cpp)
 1. [Permutations](/Introductory%20Problems/Permutations.cpp)
 1. [Two Sets](/Introductory%20Problems/Two%20Sets.cpp)
+1. [Bit Strings](/Introductory%20Problems/Bit%20Strings.cpp)
+
 
 ## Sorting and Searching
 1. [Distinct Numbers](/Sorting%20and%20Searching/Distinct%20Numbers.cpp)
