@@ -49,7 +49,7 @@ to be continued ...
 1. [Towers](/Sorting%20and%20Searching/Towers.cpp)
 1. [Traffic Lights](/Sorting%20and%20Searching/Traffic%20Lights.cpp)
 1. [Josephus Problem I](/Sorting%20and%20Searching/Josephus%20Problem%20I.cpp)
-1. Subarray Sums I](/Sorting%20and%20Searching/Subarray%20Sums%20I.cpp)
+1. [Subarray Sums I](/Sorting%20and%20Searching/Subarray%20Sums%20I.cpp)
 
 
 ## Dynamic Programming
