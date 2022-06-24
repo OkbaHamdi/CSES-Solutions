@@ -1,5 +1,5 @@
 # CSES-Solutions
-41 accepted solutions to the [CSES Problem Set](https://cses.fi/problemset/), written in C++ by Okba Hamdi [(Yagami_light)](https://cses.fi/user/111330).
+42 accepted solutions to the [CSES Problem Set](https://cses.fi/problemset/), written in C++ by Okba Hamdi [(Yagami_light)](https://cses.fi/user/111330).
 
 I am always trying to solve more ...
 
@@ -8,7 +8,7 @@ to be continued ...
 | Problem Type          | Number Solved |
 |-----------------------|:-------------:|
 | Introductory Problems |     11/19     |
-| Sorting and Searching |     16/35     |
+| Sorting and Searching |     17/35     |
 | Dynamic Programming   |     9/19     |
 | Graph Algorithms      |     1/36     |
 | Range Queries         |     2/19     |
@@ -18,7 +18,7 @@ to be continued ...
 | Geometry              |      0/7      |
 | Advanced Techniques   |     0/24     |
 | Additional Problems   |     0/77     |
-| **Total**             |  **41/300**  |
+| **Total**             |  **42/300**  |
 
 # Table of Contents
 
