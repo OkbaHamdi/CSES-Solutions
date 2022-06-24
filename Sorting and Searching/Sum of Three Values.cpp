@@ -116,6 +116,7 @@ ll to_dec(string ch){
     return res;
 }
 /******************Code******************/
+// map implementation
 void solve(){
     ll n,k;
     cin>>n>>k;
@@ -134,6 +135,36 @@ void solve(){
     }
     cout<<"IMPOSSIBLE"<<endl;
 }
+// binary search implementation
+/*
+void solve(){
+    ll n,k;
+    cin>>n>>k;
+    vector<pl>v(n);
+    rep(i,1,n+1){
+        ll a;
+        cin>>a;
+        v[i-1]={a,i};
+    }
+    sort(all(v));
+    for(ll i=0;i<n-2;i++){
+        for(ll j=i+1;j<n-1;j++){
+            ll left=j+1,right=n-1;
+        while(left<=right){
+        ll mid=(left+right+1)/2;
+        if(v[mid].F+v[i].F+v[j].F==k){
+            cout<<v[i].S<<" "<<v[j].S<<" "<<v[mid].S<<endl;
+            return;
+        }
+        if(v[mid].F+v[i].F+v[j].F>k)right=mid-1;
+        else left=mid+1;
+            }
+        }
+    }
+    cout<<"IMPOSSIBLE"<<endl;
+
+}
+*/
 
 int main(){
         //KIRA;
