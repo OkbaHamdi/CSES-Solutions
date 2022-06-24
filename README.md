@@ -1,5 +1,5 @@
 # CSES-Solutions
-43 accepted solutions to the [CSES Problem Set](https://cses.fi/problemset/), written in C++ by Okba Hamdi [(Yagami_light)](https://cses.fi/user/111330).
+44 accepted solutions to the [CSES Problem Set](https://cses.fi/problemset/), written in C++ by Okba Hamdi [(Yagami_light)](https://cses.fi/user/111330).
 
 I am always trying to solve more ...
 
@@ -8,7 +8,7 @@ to be continued ...
 | Problem Type          | Number Solved |
 |-----------------------|:-------------:|
 | Introductory Problems |     11/19     |
-| Sorting and Searching |     18/35     |
+| Sorting and Searching |     19/35     |
 | Dynamic Programming   |     9/19     |
 | Graph Algorithms      |     1/36     |
 | Range Queries         |     2/19     |
@@ -18,7 +18,7 @@ to be continued ...
 | Geometry              |      0/7      |
 | Advanced Techniques   |     0/24     |
 | Additional Problems   |     0/77     |
-| **Total**             |  **43/300**  |
+| **Total**             |  **44/300**  |
 
 # Table of Contents
 
@@ -52,8 +52,9 @@ to be continued ...
 15. [Josephus Problem I](/Sorting%20and%20Searching/Josephus%20Problem%20I.cpp)
 16. [Factory Machines](/Sorting%20and%20Searching/Factory%20Machines.cpp)
 17. [Sum of Three Values](/Sorting%20and%20Searching/Sum%20of%20Three%20Values.cpp)
-18. [Subarray Sums I](/Sorting%20and%20Searching/Subarray%20Sums%20I.cpp)
-19. [Subarray Sums II](/Sorting%20and%20Searching/Subarray%20Sums%20II.cpp)
+17. [Sum of Four Values](/Sorting%20and%20Searching/Sum%20of%20Four%20Values.cpp)
+19. [Subarray Sums I](/Sorting%20and%20Searching/Subarray%20Sums%20I.cpp)
+20. [Subarray Sums II](/Sorting%20and%20Searching/Subarray%20Sums%20II.cpp)
 
 
 ## Dynamic Programming
