@@ -119,25 +119,20 @@ ll to_dec(string ch){
 void solve(){
     ll n,k;
     cin>>n>>k;
-    vector<pl>v(n);
-    rep(i,1,n+1){
-        ll a;
-        cin>>a;
-        v[i-1]={a,i};
-    }
+    vl v(n);
+    rep(i,0,n)cin>>v[i];
     map<ll,pl>mp;
     for(ll i=n-1;i>0;i--){
         for(ll j=i-1;j>=0;j--){
-            ll x=k-v[i].F-v[j].F;
+            ll x=k-v[i]-v[j];
             if(mp[x].F!=0||mp[x].S!=0){
-                cout<<v[i].S<<" "<<v[j].S<<" "<<mp[x].F<<" "<<mp[x].S<<endl;
+                cout<<i+1<<" "<<j+1<<" "<<mp[x].F<<" "<<mp[x].S<<endl;
                 return;
             }
         }
-        rep(j,i+1,n)mp[v[i].F+v[j].F]={v[i].S,v[j].S};
+        rep(j,i+1,n)mp[v[i]+v[j]]={i+1,j+1};
     }
     cout<<"IMPOSSIBLE"<<endl;
-
 }
 
 int main(){
