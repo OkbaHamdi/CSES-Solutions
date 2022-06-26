@@ -1,5 +1,5 @@
 # CSES-Solutions
-44 accepted solutions to the [CSES Problem Set](https://cses.fi/problemset/), written in C++ by Okba Hamdi [(Yagami_light)](https://cses.fi/user/111330).
+45 accepted solutions to the [CSES Problem Set](https://cses.fi/problemset/), written in C++ by Okba Hamdi [(Yagami_light)](https://cses.fi/user/111330).
 
 I am always trying to solve more ...
 
@@ -8,7 +8,7 @@ to be continued ...
 | Problem Type          | Number Solved |
 |-----------------------|:-------------:|
 | Introductory Problems |     11/19     |
-| Sorting and Searching |     19/35     |
+| Sorting and Searching |     20/35     |
 | Dynamic Programming   |     9/19     |
 | Graph Algorithms      |     1/36     |
 | Range Queries         |     2/19     |
@@ -18,7 +18,7 @@ to be continued ...
 | Geometry              |      0/7      |
 | Advanced Techniques   |     0/24     |
 | Additional Problems   |     0/77     |
-| **Total**             |  **44/300**  |
+| **Total**             |  **45/300**  |
 
 # Table of Contents
 
@@ -41,20 +41,21 @@ to be continued ...
 4. [Ferris Wheel](/Sorting%20and%20Searching/Ferris%20Wheel.cpp)
 5. [Concert Tickets](/Sorting%20and%20Searching/Concert%20Tickets.cpp)
 6. [Restaurant Customers](/Sorting%20and%20Searching/Restaurant%20Customers.cpp)
-7. [Sum of Two Values](/Sorting%20and%20Searching/Sum%20of%20Two%20Values.cpp)
-8. [Maximum Subarray Sum](/Sorting%20and%20Searching/Maximum%20Subarray%20Sum.cpp)
-9. [Stick Lengths](/Sorting%20and%20Searching/Stick%20Lengths.cpp)
-10. [Missing Coin Sum](/Sorting%20and%20Searching/Missing%20Coin%20Sum.cpp)
-11. [Collecting Numbers](/Sorting%20and%20Searching/Collecting%20Numbers.cpp)
-12. [Playlist](/Sorting%20and%20Searching/Playlist.cpp)
-13. [Towers](/Sorting%20and%20Searching/Towers.cpp)
-14. [Traffic Lights](/Sorting%20and%20Searching/Traffic%20Lights.cpp)
-15. [Josephus Problem I](/Sorting%20and%20Searching/Josephus%20Problem%20I.cpp)
-16. [Factory Machines](/Sorting%20and%20Searching/Factory%20Machines.cpp)
-17. [Sum of Three Values](/Sorting%20and%20Searching/Sum%20of%20Three%20Values.cpp)
-17. [Sum of Four Values](/Sorting%20and%20Searching/Sum%20of%20Four%20Values.cpp)
-19. [Subarray Sums I](/Sorting%20and%20Searching/Subarray%20Sums%20I.cpp)
-20. [Subarray Sums II](/Sorting%20and%20Searching/Subarray%20Sums%20II.cpp)
+6. [Movie Festival](/Sorting%20and%20Searching/Movie%20Festival.cpp)
+8. [Sum of Two Values](/Sorting%20and%20Searching/Sum%20of%20Two%20Values.cpp)
+9. [Maximum Subarray Sum](/Sorting%20and%20Searching/Maximum%20Subarray%20Sum.cpp)
+10. [Stick Lengths](/Sorting%20and%20Searching/Stick%20Lengths.cpp)
+11. [Missing Coin Sum](/Sorting%20and%20Searching/Missing%20Coin%20Sum.cpp)
+12. [Collecting Numbers](/Sorting%20and%20Searching/Collecting%20Numbers.cpp)
+13. [Playlist](/Sorting%20and%20Searching/Playlist.cpp)
+14. [Towers](/Sorting%20and%20Searching/Towers.cpp)
+15. [Traffic Lights](/Sorting%20and%20Searching/Traffic%20Lights.cpp)
+16. [Josephus Problem I](/Sorting%20and%20Searching/Josephus%20Problem%20I.cpp)
+17. [Factory Machines](/Sorting%20and%20Searching/Factory%20Machines.cpp)
+18. [Sum of Three Values](/Sorting%20and%20Searching/Sum%20of%20Three%20Values.cpp)
+19. [Sum of Four Values](/Sorting%20and%20Searching/Sum%20of%20Four%20Values.cpp)
+20. [Subarray Sums I](/Sorting%20and%20Searching/Subarray%20Sums%20I.cpp)
+21. [Subarray Sums II](/Sorting%20and%20Searching/Subarray%20Sums%20II.cpp)
 
 
 ## Dynamic Programming
