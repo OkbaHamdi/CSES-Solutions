@@ -1,5 +1,5 @@
 # CSES-Solutions
-47 accepted solutions to the [CSES Problem Set](https://cses.fi/problemset/), written in C++ by Okba Hamdi [(Yagami_light)](https://cses.fi/user/111330).
+48 accepted solutions to the [CSES Problem Set](https://cses.fi/problemset/), written in C++ by Okba Hamdi [(Yagami_light)](https://cses.fi/user/111330).
 
 I am always trying to solve more ...
 
@@ -8,7 +8,7 @@ to be continued ...
 | Problem Type          | Number Solved |
 |-----------------------|:-------------:|
 | Introductory Problems |     11/19     |
-| Sorting and Searching |     21/35     |
+| Sorting and Searching |     22/35     |
 | Dynamic Programming   |     9/19     |
 | Graph Algorithms      |     1/36     |
 | Range Queries         |     2/19     |
@@ -18,7 +18,7 @@ to be continued ...
 | Geometry              |      0/7      |
 | Advanced Techniques   |     0/24     |
 | Additional Problems   |     0/77     |
-| **Total**             |  **47/300**  |
+| **Total**             |  **48/300**  |
 
 # Table of Contents
 
@@ -55,6 +55,7 @@ to be continued ...
 17. [Tasks and Deadlines](/Sorting%20and%20Searching/Tasks%20and%20Deadlines.cpp)
 18. [Sum of Three Values](/Sorting%20and%20Searching/Sum%20of%20Three%20Values.cpp)
 19. [Sum of Four Values](/Sorting%20and%20Searching/Sum%20of%20Four%20Values.cpp)
+19. [Nearest Smaller Values](/Sorting%20and%20Searching/Nearest%20Smaller%20Values.cpp)
 20. [Subarray Sums I](/Sorting%20and%20Searching/Subarray%20Sums%20I.cpp)
 21. [Subarray Sums II](/Sorting%20and%20Searching/Subarray%20Sums%20II.cpp)
 
