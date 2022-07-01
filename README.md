@@ -1,5 +1,5 @@
 # CSES-Solutions
-46 accepted solutions to the [CSES Problem Set](https://cses.fi/problemset/), written in C++ by Okba Hamdi [(Yagami_light)](https://cses.fi/user/111330).
+47 accepted solutions to the [CSES Problem Set](https://cses.fi/problemset/), written in C++ by Okba Hamdi [(Yagami_light)](https://cses.fi/user/111330).
 
 I am always trying to solve more ...
 
@@ -8,7 +8,7 @@ to be continued ...
 | Problem Type          | Number Solved |
 |-----------------------|:-------------:|
 | Introductory Problems |     11/19     |
-| Sorting and Searching |     20/35     |
+| Sorting and Searching |     21/35     |
 | Dynamic Programming   |     9/19     |
 | Graph Algorithms      |     1/36     |
 | Range Queries         |     2/19     |
@@ -52,6 +52,7 @@ to be continued ...
 15. [Traffic Lights](/Sorting%20and%20Searching/Traffic%20Lights.cpp)
 16. [Josephus Problem I](/Sorting%20and%20Searching/Josephus%20Problem%20I.cpp)
 17. [Factory Machines](/Sorting%20and%20Searching/Factory%20Machines.cpp)
+17. [Tasks and Deadlines](/Sorting%20and%20Searching/Tasks%20and%20Deadlines.cpp)
 18. [Sum of Three Values](/Sorting%20and%20Searching/Sum%20of%20Three%20Values.cpp)
 19. [Sum of Four Values](/Sorting%20and%20Searching/Sum%20of%20Four%20Values.cpp)
 20. [Subarray Sums I](/Sorting%20and%20Searching/Subarray%20Sums%20I.cpp)
