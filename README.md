@@ -7,8 +7,8 @@ to be continued ...
 
 | Problem Type          | Number Solved |
 |-----------------------|:-------------:|
-| Introductory Problems |     12/19     |
-| Sorting and Searching |     25/35     |
+| Introductory Problems |     13/19     |
+| Sorting and Searching |     24/35     |
 | Dynamic Programming   |     9/19     |
 | Graph Algorithms      |     1/36     |
 | Range Queries         |     2/19     |
