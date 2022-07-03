@@ -1,5 +1,5 @@
 # CSES-Solutions
-51 accepted solutions to the [CSES Problem Set](https://cses.fi/problemset/), written in C++ by Okba Hamdi [(Yagami_light)](https://cses.fi/user/111330).
+52 accepted solutions to the [CSES Problem Set](https://cses.fi/problemset/), written in C++ by Okba Hamdi [(Yagami_light)](https://cses.fi/user/111330).
 
 I am always trying to solve more ...
 
@@ -8,7 +8,7 @@ to be continued ...
 | Problem Type          | Number Solved |
 |-----------------------|:-------------:|
 | Introductory Problems |     12/19     |
-| Sorting and Searching |     24/35     |
+| Sorting and Searching |     25/35     |
 | Dynamic Programming   |     9/19     |
 | Graph Algorithms      |     1/36     |
 | Range Queries         |     2/19     |
@@ -18,7 +18,7 @@ to be continued ...
 | Geometry              |      0/7      |
 | Advanced Techniques   |     0/24     |
 | Additional Problems   |     0/77     |
-| **Total**             |  **51/300**  |
+| **Total**             |  **52/300**  |
 
 # Table of Contents
 
@@ -32,6 +32,7 @@ to be continued ...
 1. [Bit Strings](/Introductory%20Problems/Bit%20Strings.cpp)
 1. [Trailing Zeros](/Introductory%20Problems/Trailing%20Zeros.cpp)
 1. [Coin Piles](/Introductory%20Problems/Coin%20Piles.cpp)
+1. [Palindrome Reorder](/Introductory%20Problems/Palindrome%20Reorder.cpp)
 1. [Gray Code](/Introductory%20Problems/Gray%20Code.cpp)
 1. [Creating Strings](/Introductory%20Problems/Creating%20Strings.cpp)
 1. [Apple Division](/Introductory%20Problems/Apple%20Division.cpp)
