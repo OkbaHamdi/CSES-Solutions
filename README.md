@@ -1,5 +1,5 @@
 # CSES-Solutions
-53 accepted solutions to the [CSES Problem Set](https://cses.fi/problemset/), written in C++ by Okba Hamdi [(Yagami_light)](https://cses.fi/user/111330).
+54 accepted solutions to the [CSES Problem Set](https://cses.fi/problemset/), written in C++ by Okba Hamdi [(Yagami_light)](https://cses.fi/user/111330).
 
 I am always trying to solve more ...
 
@@ -13,7 +13,7 @@ to be continued ...
 | Graph Algorithms      |     1/36     |
 | Range Queries         |     2/19     |
 | Tree Algorithms       |     0/16     |
-| Mathematics           |     4/31     |
+| Mathematics           |     5/31     |
 | String Algorithms     |     0/17     |
 | Geometry              |      0/7      |
 | Advanced Techniques   |     0/24     |
@@ -93,6 +93,7 @@ to be continued ...
 1. [Exponentiation II](/Mathematics/Exponentiation%20II.cpp)
 1. [Counting Divisors](/Mathematics/Counting%20Divisors.cpp)
 1. [Common Divisors](/Mathematics/Common%20Divisors.cpp)
+1. [Binomial Coefficients](/Mathematics/Binomial%20Coefficients.cpp)
 
 
 ## String Algorithms
