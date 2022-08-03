@@ -1,5 +1,5 @@
 # CSES-Solutions
-54 accepted solutions to the [CSES Problem Set](https://cses.fi/problemset/), written in C++ by Okba Hamdi [(Yagami_light)](https://cses.fi/user/111330).
+55 accepted solutions to the [CSES Problem Set](https://cses.fi/problemset/), written in C++ by Okba Hamdi [(Yagami_light)](https://cses.fi/user/111330).
 
 I am always trying to solve more ...
 
@@ -14,11 +14,11 @@ to be continued ...
 | Range Queries         |     2/19     |
 | Tree Algorithms       |     0/16     |
 | Mathematics           |     5/31     |
-| String Algorithms     |     0/17     |
+| String Algorithms     |     1/17     |
 | Geometry              |      0/7      |
 | Advanced Techniques   |     0/24     |
 | Additional Problems   |     0/77     |
-| **Total**             |  **53/300**  |
+| **Total**             |  **55/300**  |
 
 # Table of Contents
 
@@ -97,6 +97,7 @@ to be continued ...
 
 
 ## String Algorithms
+1. [String Matching](/String%20Algorithms/String%20Matching.cpp)
 
 
 ## Geometry
