@@ -1,5 +1,5 @@
 # CSES-Solutions
-60 accepted solutions to the [CSES Problem Set](https://cses.fi/problemset/), written in C++ by Okba Hamdi [(Yagami_light)](https://cses.fi/user/111330).
+61 accepted solutions to the [CSES Problem Set](https://cses.fi/problemset/), written in C++ by Okba Hamdi [(Yagami_light)](https://cses.fi/user/111330).
 
 I am always trying to solve more ...
 
@@ -11,7 +11,7 @@ to be continued ...
 | Sorting and Searching |     24/35     |
 | Dynamic Programming   |     9/19     |
 | Graph Algorithms      |     4/36     |
-| Range Queries         |     3/19     |
+| Range Queries         |     4/19     |
 | Tree Algorithms       |     0/16     |
 | Mathematics           |     6/31     |
 | String Algorithms     |     1/17     |
@@ -88,7 +88,7 @@ to be continued ...
 1. [Static Range Sum Queries](/Range%20Queries/Static%20Range%20Sum%20Queries.cpp)
 1. [Static Range Minimum Queries](/Range%20Queries/Static%20Range%20Minimum%20Queries.cpp)
 1. [Dynamic Range Sum Queries](/Range%20Queries/Dynamic%20Range%20Sum%20Queries.cpp)
-
+1. [Dynamic Range Minimum Queries](/Range%20Queries/Dynamic%20Range%20Minimum%20Queries.cpp)
 
 ## Tree Algorithms
 
