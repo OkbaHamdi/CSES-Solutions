@@ -1,5 +1,5 @@
 # CSES-Solutions
-56 accepted solutions to the [CSES Problem Set](https://cses.fi/problemset/), written in C++ by Okba Hamdi [(Yagami_light)](https://cses.fi/user/111330).
+57 accepted solutions to the [CSES Problem Set](https://cses.fi/problemset/), written in C++ by Okba Hamdi [(Yagami_light)](https://cses.fi/user/111330).
 
 I am always trying to solve more ...
 
@@ -10,7 +10,7 @@ to be continued ...
 | Introductory Problems |     13/19     |
 | Sorting and Searching |     24/35     |
 | Dynamic Programming   |     9/19     |
-| Graph Algorithms      |     1/36     |
+| Graph Algorithms      |     2/36     |
 | Range Queries         |     2/19     |
 | Tree Algorithms       |     0/16     |
 | Mathematics           |     6/31     |
@@ -18,7 +18,7 @@ to be continued ...
 | Geometry              |      0/7      |
 | Advanced Techniques   |     0/24     |
 | Additional Problems   |     0/77     |
-| **Total**             |  **56/300**  |
+| **Total**             |  **57/300**  |
 
 # Table of Contents
 
@@ -79,6 +79,7 @@ to be continued ...
 ## Graph Algorithms
 
 1. [Counting Rooms](/Graph%20Algorithms/Counting%20Rooms.cpp)
+2. [Building Roads](/Graph%20Algorithms/Building%20Roads.cpp)
 
 ## Range Queries
 
