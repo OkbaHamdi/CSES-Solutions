@@ -91,7 +91,7 @@ to be continued ...
 1. [Dynamic Range Sum Queries](/Range%20Queries/Dynamic%20Range%20Sum%20Queries.cpp)
 1. [Dynamic Range Minimum Queries](/Range%20Queries/Dynamic%20Range%20Minimum%20Queries.cpp)
 1. [Range Xor Queries](/Range%20Queries/Range%20Xor%20Queries.cpp)
-1. [Range Update Queries](/Range%20Update%20Queries.cpp)
+1. [Range Update Queries](/Range%20Queries//Range%20Update%20Queries.cpp)
 
 ## Tree Algorithms
 
