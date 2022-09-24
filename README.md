@@ -1,24 +1,24 @@
 # CSES-Solutions
-63 accepted solutions to the [CSES Problem Set](https://cses.fi/problemset/), written in C++ by Okba Hamdi [(Yagami_light)](https://cses.fi/user/111330).
+64 accepted solutions to the [CSES Problem Set](https://cses.fi/problemset/), written in C++ by Okba Hamdi [(Yagami_light)](https://cses.fi/user/111330).
 
 I am always trying to solve more ...
 
 to be continued ...
 
-| Problem Type          | Number Solved |
-|-----------------------|:-------------:|
-| Introductory Problems |     13/19     |
-| Sorting and Searching |     24/35     |
+| Problem Type          | Number Solved|
+|-----------------------|:------------:|
+| Introductory Problems |     13/19    |
+| Sorting and Searching |     24/35    |
 | Dynamic Programming   |     9/19     |
 | Graph Algorithms      |     5/36     |
-| Range Queries         |     5/19     |
+| Range Queries         |     6/19     |
 | Tree Algorithms       |     0/16     |
 | Mathematics           |     6/31     |
 | String Algorithms     |     1/17     |
-| Geometry              |      0/7      |
+| Geometry              |      0/7     |
 | Advanced Techniques   |     0/24     |
 | Additional Problems   |     0/77     |
-| **Total**             |  **63/300**  |
+| **Total**             |  **64/300**  |
 
 # Table of Contents
 
@@ -91,6 +91,7 @@ to be continued ...
 1. [Dynamic Range Sum Queries](/Range%20Queries/Dynamic%20Range%20Sum%20Queries.cpp)
 1. [Dynamic Range Minimum Queries](/Range%20Queries/Dynamic%20Range%20Minimum%20Queries.cpp)
 1. [Range Xor Queries](/Range%20Queries/Range%20Xor%20Queries.cpp)
+1. [Range Update Queries](/Range%20Update%20Queries.cpp)
 
 ## Tree Algorithms
 
